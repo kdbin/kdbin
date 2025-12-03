@@ -7,6 +7,8 @@
   #### :fire: I am interested in **data**.<br/>
   <br/>
   <br/>
+
+ ---
   
   ## 🧱 Tech Stack
   ### Language
@@ -18,6 +20,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
   <br/>
   <br/>
+
+   ---
 
   ## :computer: A project in progress <br/>
   #### This project was developed as part of an open-source collaboration task.
@@ -41,6 +45,10 @@
 
    ### ⚡ Recent Activity
    <br/>
+
+   ### 🔥 GitHub Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdbin&theme=dracula)](https://git.io/streak-stats)
+<br/>
 
   ### 🔥 GitHub Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdbin&theme=dracula)](https://git.io/streak-stats)
