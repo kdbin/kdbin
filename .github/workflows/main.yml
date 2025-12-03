@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    # 3시간마다 실행 (UTC 기준)
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      # anuraghazra/github-activity-generator Action 사용
+      - uses: anuraghazra/github-activity-generator@v1
+        env:
+          # 3단계에서 등록한 Secret 이름 (GH_TOKEN)을 사용
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} 
+        with:
+          # 표시할 최근 활동 개수
+          max_activity: 10 
+          # 제외할 이벤트 유형 (예: ForkEvent, WatchEvent)
+          excluded_events: "ForkEvent,WatchEvent"
+          # 커밋 메시지 지정
+          commit_message: "docs: Update recent GitHub activity"
+
+      # 업데이트된 README.md 파일을 커밋
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update recent GitHub activity"
