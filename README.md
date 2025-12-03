@@ -40,9 +40,10 @@
    ### ⚡ Recent Activity
    <br/>
 
-   ### 🤔 Github Stats
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdbin&show_icons=true&theme=dracula)](https://github.com/kdbin/github-readme-stats)
-  <br/>
+   ###  📊 Github Stats
+   [![kdbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdbin&show_icons=true&theme=dracula)](https://github.com/kdbin/github-readme-stats)
+   <br/>
+  ### 💻 Top Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdbin&layout=compact&theme=dracula)](https://github.com/kdbin/github-readme-stats)
   <br/>
   [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kdbin&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
