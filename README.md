@@ -33,12 +33,20 @@
   <br/>
 
    ## :hourglass: History of GitHub activities so far
+   ### 💡 Contributed Open Source Projects
+   * **PlayGround:** Users can select and enjoy various games on one screen through Pygame. ([Link to Repository]([URL](https://github.com/jojaeyun/OSS_OpenQuest.git)))
+   <br/>
+
+   ### ⚡ Recent Activity
+   <br/>
+
    ### 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdbin)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdbin&show_icons=true&theme=dracula)](https://github.com/kdbin/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdbin)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdbin&layout=compact&theme=dracula)](https://github.com/kdbin/github-readme-stats)
   <br/>
-  
+  [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kdbin&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  <br/>
 </div>
 
 
