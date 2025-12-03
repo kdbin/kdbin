@@ -43,13 +43,6 @@
   * **PlayGround:** Users can select and enjoy various games on one screen through Pygame. ([Link to Repository](https://github.com/jojaeyun/OSS_OpenQuest.git))
   <br/>
 
-   ### ⚡ Recent Activity
-   <br/>
-
-   ### 🔥 GitHub Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdbin&theme=dracula)](https://git.io/streak-stats)
-<br/>
-
   ### 🔥 GitHub Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdbin&theme=dracula)](https://git.io/streak-stats)
   <br/>
